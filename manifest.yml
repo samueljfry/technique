@@ -1,0 +1,6 @@
+---
+  applications:
+    buildpack: https://github.com/cloudfoundry-incubator/staticfile-buildpack
+    host: technique
+    name: technique
+    memory: 64M
